@@ -1,0 +1,197 @@
+<?xml version="1.0"?>
+<Locations >
+  <Project >
+    <file_marker column=" 1" line=" 1" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Swarm/swarm_control_concurrent_generic.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 29" line=" 8" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Swarm/swarm_control_concurrent_generic.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/globe_3d.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/globe_3d.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1071" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/globe_3d.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 1072" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/globe_3d.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 1143" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/globe_3d.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 35" line=" 1144" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/globe_3d.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 140" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/glut-devices.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 141" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/glut-devices.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 5" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Library/vectors_xd.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 49" line=" 7" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Library/vectors_xd.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 442" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/unzip/zip.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 443" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/unzip/zip.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 490" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/unzip/zip.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 491" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/unzip/zip.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 490" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/unzip/zip.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 491" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/unzip/zip.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 621" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/unzip/zip.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 24" line=" 622" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/unzip/zip.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 218" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/glut-windows.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 14" line=" 219" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/glut-windows.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 522" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/glut-windows.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 523" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/glut-windows.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 49" line=" 6" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Library/vectors_xd_i.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 14" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Swarm/vehicle_interface.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 15" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Swarm/vehicle_interface.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 4" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/gl/gl-math.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 223" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/unzip/zip_streams.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 224" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/unzip/zip_streams.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 6" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/gaming/actors.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 33" line=" 7" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/gaming/actors.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 10" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/globe_3d-software_anti_aliasing.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 11" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/globe_3d-software_anti_aliasing.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 65" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/gl/gl-buffer-general.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 353" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/unzip/unzip-decompress.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 22" line=" 354" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/unzip/unzip-decompress.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 84" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Swarm/swarm_control_concurrent_generic.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 52" line=" 8" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Swarm/swarm_control_concurrent_generic.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 11" line=" 84" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Swarm/swarm_control_concurrent_generic.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 49" line=" 82" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Swarm/swarm_control_concurrent_generic.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 12" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/globe_3d.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 13" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/globe_3d.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 59" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/gl/gl-skins.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 60" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/gl/gl-skins.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 1" line=" 585" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/unzip/unzip-decompress.adb</vfs_file>
+    </file_marker>
+    <file_marker column=" 20" line=" 586" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/unzip/unzip-decompress.adb</vfs_file>
+    </file_marker>
+    <file_marker current="true" column=" 13" line=" 1781" >
+      <vfs_project>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/swarm_mac_os.gpr</vfs_project>
+      <vfs_file>/Users/uwe/Documents/Sources/CDS-Course/Assignments/2019/Assignment_1/Assignment_1_template/Sources/Globe_3d/unzip/unzip-decompress.adb</vfs_file>
+    </file_marker>
+  </Project>
+</Locations>
